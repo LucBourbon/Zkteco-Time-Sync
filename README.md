@@ -2,6 +2,8 @@
 
 Programa para sincronizar la hora de los relojes biométricos (huelleros) **ZKTeco** conectados por red local o VPN.
 
+> **Compatibilidad:** este proyecto está diseñado únicamente para equipos ZKTeco **legacy** que utilizan el protocolo propietario del **Standalone SDK (`ZKEMKeeper`)**, normalmente mediante TCP/UDP en el puerto **4370**. No es compatible con los modelos actuales gestionados por servidor, como **SenseFace**.
+
 Incluye dos herramientas:
 
 | Programa | Archivo | Uso |
